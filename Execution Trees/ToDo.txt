@@ -1,0 +1,4 @@
+Que es un arbol de ejecution
+para que se usan 
+como se interpretan
+como se optimizan

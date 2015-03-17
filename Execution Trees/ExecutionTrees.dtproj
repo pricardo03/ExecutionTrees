@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">THOR</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjaAutDaMoUa+ZTQrPubY/gAAAAACAAAAAAAQZgAAAAEAACAAAAAnTziMdsgVgy0GSB68y4dO0Qasq+dedVuwzhQaOfhMBgAAAAAOgAAAAAIAACAAAACI6hjCxsyz04WhH8zIg7EIJsg2t01pb6phmAT4lDdX4JAAAADFMIDjfWDLkEBJToRoUiO5mgGy277r7E5HOWHY0T7kUYRgJe1gN4oqFXkcuYwPPDX+LjIqW03u1ddU9qSBG9qdI7/vSGMK+JuA6HaDRtMYiWiCl6tL2wV1smSYJzCgtRIWyCMUlDviwh9rdl3mBb1UqsfukIv8w32+3wjJ29IvA8HJfH7xqoARNhbOUNFX4S9AAAAAUBOIZVhTvOLsAFR5+LJSckIm6jQ/zzWcGslbXeVt0yIUyuRqf+4minNu+kPa4KV6MoVK1Ky47B39ixnjAAPiaw==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjaAutDaMoUa+ZTQrPubY/gAAAAACAAAAAAAQZgAAAAEAACAAAADy/4rmw6MyKaA9quGZ0wXNiPLY2ayrPbmnbL3RMw3yGQAAAAAOgAAAAAIAACAAAAAOYiGBtSX4cPlemgF+Q2wAaAvJqeKgcu/vWIl3Kk7JKpAAAAABN6IlI858bc8yPP0bGWb9eeEfXjKAKz2pj4g8ZVOgrtgvtImRPnUyhkZfLA0VvwK+sahXzfHEHpeYu6ujziDyD63cpqV/NKVKvYk6VaErXifq9ZcZY577L+XX3EaiPa9XD6yGwGnTGpY18JJt7rVuCVI7qxndwogNq/Ho3MoISa2fqi7JdLf3x4PJELGYGAlAAAAAbsxWprp5ozDJL7YsjjVm7zMx46fVSg2sOpYDq2HKqa4zPCa4RZ/JRybQh0ZZ9pNrHtWygCBJhNIsclx8LHaesA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -62,6 +62,10 @@
     <ProjectItem>
       <Name>SSIS Performance Tuning Techniques.pptx</Name>
       <FullPath>SSIS Performance Tuning Techniques.pptx</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ToDo.txt</Name>
+      <FullPath>ToDo.txt</FullPath>
     </ProjectItem>
   </Miscellaneous>
   <Configurations>
