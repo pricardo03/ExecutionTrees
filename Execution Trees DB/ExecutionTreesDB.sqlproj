@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>Execution_Trees_DB</Name>
+    <Name>ExecutionTreesDB</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{d2df1356-cf5e-4b56-9cb6-cb40d0bfd09b}</ProjectGuid>
@@ -65,9 +65,8 @@
     <Folder Include="Schemas" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Dimension\Tables\Product.sql" />
-    <Build Include="Dimension\Tables\ProductCategories.sql" />
-    <Build Include="Schemas\Dim.sql" />
+    <Build Include="Dimension\Tables\DimProduct.sql" />
+    <Build Include="Schemas\Sales.sql" />
     <Build Include="Schemas\Fact.sql" />
   </ItemGroup>
   <ItemGroup>

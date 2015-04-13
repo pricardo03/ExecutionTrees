@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="4/4/2015 3:40:10 PM"
+  DTS:CreationDate="4/11/2015 11:44:36 AM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="THOR"
   DTS:CreatorName="THOR\Rikhardo"
-  DTS:DTSID="{32592412-2424-48BB-BFCA-6F9E747CA268}"
+  DTS:DTSID="{BB0173D4-23D5-4035-B9EF-CCBB7FC33EC0}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="12.0.2344.23"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Empty Task"
+  DTS:ObjectName="Groups"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{5596CCCA-B367-4FCD-855E-49951044C990}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{1DF3F38A-9D7A-4165-A3F7-93CA6E7A7526}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

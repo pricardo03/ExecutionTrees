@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExecutionTrees", "Execution Trees\ExecutionTrees.dtproj", "{F188C9C3-409F-4AA0-9D2C-8B994E64F1E3}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExecutionTreesSSIS", "Execution Trees\ExecutionTreesSSIS.dtproj", "{F188C9C3-409F-4AA0-9D2C-8B994E64F1E3}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Execution Trees DB", "Execution Trees DB\Execution Trees DB.sqlproj", "{D2DF1356-CF5E-4B56-9CB6-CB40D0BFD09B}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ExecutionTreesDB", "Execution Trees DB\ExecutionTreesDB.sqlproj", "{D2DF1356-CF5E-4B56-9CB6-CB40D0BFD09B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
